@@ -9,7 +9,7 @@ Architecture, Mobile
 
 ### Socials
 - [github](https://github.com/to4iki)
-- [blog](https://medium.com/@to4iki)
-- [old blog](http://to4iki.hatenablog.jp/)
+- [medium](https://medium.com/@to4iki)
+- [hatena blog](http://to4iki.hatenablog.jp/)
 - [qiita](http://qiita.com/to4iki)
 - [speakerdeck](https://speakerdeck.com/to4iki)
